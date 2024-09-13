@@ -13,5 +13,5 @@ getgenv().loaded = true
 universeid = game.GameId
 
 if universeid == 8737899170 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AzureScript3/scriptz/main/arg.lua",true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AzureScript3/script-loader/main/main.lua",true))()
 end
